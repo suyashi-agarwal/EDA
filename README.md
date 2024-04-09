@@ -1,2 +1,2 @@
 # EDA
-EDA performed on breast cancer dataset.
+This repository contains eda performed on various datasets.
